@@ -1,4 +1,6 @@
 # textual-similarity-analysis
+Clean the corpus to obtain a set of relevant keywords for further analysis on it.
+
 
 <img width="790" alt="Screen Shot 2022-09-13 at 2 30 08 PM" src="https://user-images.githubusercontent.com/54576135/189880339-c1eaff38-79b6-4248-a51d-766ee447239e.png">
 
